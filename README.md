@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm ARUNABHA SAHA</h1>
 <h3 align="center">A Engineering student with a keen interest in Data Analyse</h3>
-<img align="right" alt="Coding" width="400" src="![image](https://github.com/sahaaru/sahaaru/assets/110407606/2dba16f9-c76a-429f-ac77-f5525bc97c0d)
-">
+<img align="right" alt="Coding" width="400" src="https://assets-global.website-files.com/5c19100c2b50073e6ee69da1/60d35967a853a1b14851703b_All%20the%20data%20(1).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahaaru&label=Profile%20views&color=0e75b6&style=flat" alt="sahaaru" /> </p>
 
 - 🌱 I’m currently learning **Wordpress, Android Studio**
